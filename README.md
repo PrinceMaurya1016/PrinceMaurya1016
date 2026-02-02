@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm Prince Kumar Maurya
 
-<!--
-**PrinceMaurya1016/PrinceMaurya1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Developer (Java and Kotlin).  
+I enjoy building Android apps and improving my coding skills.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Android Development
+- Java, Kotlin
+- DSA (Data Structure)
+- XML
+- SQLite
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Android practice projects
+- Learning app development concepts
+- DSA (Data Structure)
+
+### 📂 Projects
+- 📱 Simple Android Apps  
+- 📝 Learning-based projects  
+
+### 🌱 Goals
+- Become a skilled Android Developer
+- Build real-world applications
+- 
+
+### 📫 Contact
+- GitHub: https://github.com/PrinceMaurya1016
