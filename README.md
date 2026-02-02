@@ -1,4 +1,4 @@
-## Hi 👋 I'm Prince Kumar Maurya
+## Hi there, I'm Prince Kumar Maurya
 
 I'm an Android Developer (Java and Kotlin).  
 I enjoy building Android apps and improving my coding skills.
