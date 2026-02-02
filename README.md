@@ -8,7 +8,7 @@ I enjoy building Android apps and improving my coding skills.
 - Java, Kotlin
 - DSA (Data Structure)
 - XML
-- SQLite
+- SQLite and Firebase Database
 - Git & GitHub
 
 ### 🔭 Currently Working On
@@ -23,7 +23,7 @@ I enjoy building Android apps and improving my coding skills.
 ### 🌱 Goals
 - Become a skilled Android Developer
 - Build real-world applications
-- 
 
 ### 📫 Contact
 - GitHub: https://github.com/PrinceMaurya1016
+- In: https://www.linkedin.com/in/princekumarmaurya/
